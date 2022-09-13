@@ -51,7 +51,7 @@ export const config = {
     },
     {
       name: "小冰",
-      id: "",
+      id: "oXIZ75sQPtRjshAJfOA3V6tPlO2k",
       useTemplateId: "FosE0tnu0aiG3LmpLKEIEkcSjvXIDqj4URVuiBYBTMU",
       province: "河北",
       city: "唐山",
