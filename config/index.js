@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "小圆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oXIZ75he7KKgCrJvwHYDWUrcfU0Q",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "qTXq2cYarCztkxjOtyTjqlzrXBO7_rR10hK1pg_I-WQ",
       // 所在省份
@@ -50,11 +50,11 @@ export const config = {
       ]
     },
     {
-      name: "小冰",
-      id: "oXIZ75sQPtRjshAJfOA3V6tPlO2k",
+      name: "01",
+      id: "",
       useTemplateId: "FosE0tnu0aiG3LmpLKEIEkcSjvXIDqj4URVuiBYBTMU",
-      province: "河北",
-      city: "唐山",
+      province: "",
+      city: "",
       horoscopeDate: '9-6',
       horoscopeDateType: '今日',
       openUrl: "https://s.weibo.com/top/summary/",
@@ -203,6 +203,11 @@ export const config = {
       "在永夜的背后，拥抱伤口 永恒的出口",
       "路过了学校 花店 荒野 到海边，有一种浪漫的爱是浪费时间",
       "带我走 到遥远的以后，带走我 一个人自转的寂寞",
+      "能不能答应我 临别时你或许就先走",
+      "将温柔捐给你 都怕未够",
+      "双眼睁开第一秒钟 拥抱谁都不会寂寞",
+      "有你的地方 人生就不需要 什么 答案",
+      "久别重逢却赶时间 事与愿违天天不断上演 无能为力的瞬间",
     ]},
     // 你可以不断按格式往下增加
     // ...
