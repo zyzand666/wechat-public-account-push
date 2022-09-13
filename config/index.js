@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oXIZ75qMP63V6scOnIyyDLF9YWOc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "IIo-5rObvJYsTEHFZCueAMDP2exwYo0Qj-7NOr4aC94",
+      useTemplateId: "W0ghtCl1IAaldH-i0o4zO_9ayDYl1qIi6Vbqiso8N-M",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -139,9 +139,6 @@ export const config = {
    * --- 是否展示周岁信息结束 ---
    */
   FESTIVALS: [
-    // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-    {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
