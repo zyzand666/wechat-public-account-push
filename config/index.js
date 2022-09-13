@@ -15,7 +15,7 @@ export const config = {
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  isShowColor: false,
+  isShowColor: true,
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oXIZ75qMP63V6scOnIyyDLF9YWOc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "NXbyHnvwtSCHhlnjm19UKyfCMu3kFeXT_Z1u51iCGDU",
+      useTemplateId: "RDlqc-basGNii1XUn4RnQq3fOmRySJPUGZcs3Yy2HtY",
       // 所在省份
       province: "浙江",
       // 所在城市
